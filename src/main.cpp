@@ -12,7 +12,7 @@
 #define SERIALDEBUG
 #define INCLUDE_TFT // comment to remove tft support
 // Lite only has 1 output and 1 ads1115
-#define LITE_V3 // uncomment to build for "lite" board
+//#define LITE_V3 // uncomment to build for "lite" board
 
 #include <Arduino.h>
 #include "sensesp/sensors/analog_input.h"
