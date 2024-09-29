@@ -1,5 +1,5 @@
 # EMV3_SensespV2
-<img src="https://github.com/user-attachments/assets/8523d30d-3f78-414c-9345-2c325a261c58" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/8523d30d-3f78-414c-9345-2c325a261c58" width="450" height="350">
 
 
 This repository contains example code for an Engine Monitor based on SensEsp V2.7.2. This is meant as a demonstration of the EMV3 hardware only.
